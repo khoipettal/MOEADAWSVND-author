@@ -1,31 +1,117 @@
 ================= MOEA/D-AWS: lc203 =================
 Final Elite with Dynamics: 
-Individual{TOC=2178.890255224447, NV=8}
-    Route 1: 199 -> 8 -> 46 -> 41 -> 40 -> 101 -> 9 -> 10 -> 7 -> 77 -> 76 -> 89 -> 88 -> 6 -> 2 -> 90 -> 86 -> 200
-    Route 1: TotalDis 155.43 TotalStatic 215.26 TotalDynamic 11.95 TimeLate 0.00 TimeEarly 0.36 TRUE
-    Route 2: 192 -> 66 -> 92 -> 21 -> 61 -> 73 -> 62 -> 29 -> 20 -> 26 -> 42 -> 23 -> 98 -> 47 -> 63 -> 5 -> 200
-    Route 2: TotalDis 231.52 TotalStatic 209.41 TotalDynamic 20.38 TimeLate 0.00 TimeEarly 0.77 TRUE
-    Route 3: 199 -> 1 -> 0 -> 97 -> 99 -> 94 -> 100 -> 96 -> 93 -> 91 -> 193
-    Route 3: TotalDis 72.43 TotalStatic 88.55 TotalDynamic 70.81 TimeLate 0.00 TimeEarly 0.05 TRUE
-    Route 4: 192 -> 68 -> 65 -> 19 -> 32 -> 31 -> 67 -> 64 -> 50 -> 34 -> 56 -> 53 -> 54 -> 48 -> 45 -> 36 -> 37 -> 38 -> 33 -> 35 -> 28 -> 3 -> 85 -> 200
-    Route 4: TotalDis 238.82 TotalStatic 323.86 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
-    Route 5: 192 -> 60 -> 71 -> 52 -> 58 -> 59 -> 57 -> 55 -> 200
-    Route 5: TotalDis 66.48 TotalStatic 116.91 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
-    Route 6: 200 -> 75 -> 70 -> 72 -> 69 -> 200
-    Route 6: TotalDis 39.67 TotalStatic 48.54 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.04 TRUE
-    Route 7: 194 -> 84 -> 81 -> 82 -> 83 -> 87 -> 74 -> 4 -> 22 -> 25 -> 27 -> 30 -> 51 -> 49 -> 43 -> 39 -> 200
-    Route 7: TotalDis 132.95 TotalStatic 206.06 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
-    Route 8: 192 -> 44 -> 16 -> 14 -> 17 -> 13 -> 11 -> 12 -> 18 -> 15 -> 24 -> 95 -> 80 -> 78 -> 79 -> 200
-    Route 8: TotalDis 147.90 TotalStatic 206.76 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+Individual{TOC=2152.677522257194, NV=9}
+    Route 1: 192 -> 44 -> 46 -> 19 -> 16 -> 14 -> 18 -> 17 -> 12 -> 62 -> 200
+    Route 1: TotalDis 107.31 TotalStatic 99.55 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 2: 199 -> 8 -> 24 -> 33 -> 41 -> 40 -> 101 -> 9 -> 10 -> 7 -> 77 -> 76 -> 80 -> 84 -> 81 -> 82 -> 85 -> 86 -> 95 -> 200
+    Route 2: TotalDis 169.80 TotalStatic 230.69 TotalDynamic 11.95 TimeLate 0.00 TimeEarly 0.36 TRUE
+    Route 3: 192 -> 66 -> 92 -> 21 -> 20 -> 26 -> 61 -> 73 -> 200
+    Route 3: TotalDis 76.63 TotalStatic 89.18 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.03 TRUE
+    Route 4: 192 -> 63 -> 71 -> 68 -> 65 -> 47 -> 32 -> 51 -> 50 -> 58 -> 56 -> 45 -> 67 -> 64 -> 34 -> 30 -> 31 -> 49 -> 54 -> 48 -> 37 -> 36 -> 38 -> 35 -> 200
+    Route 4: TotalDis 245.54 TotalStatic 350.91 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.09 TRUE
+    Route 5: 192 -> 29 -> 100 -> 99 -> 98 -> 5 -> 27 -> 25 -> 15 -> 13 -> 11 -> 0 -> 97 -> 96 -> 94 -> 93 -> 91 -> 193
+    Route 5: TotalDis 184.78 TotalStatic 204.96 TotalDynamic 91.19 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 6: 199 -> 3 -> 90 -> 89 -> 60 -> 53 -> 52 -> 55 -> 59 -> 57 -> 200
+    Route 6: TotalDis 83.04 TotalStatic 136.47 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.03 TRUE
+    Route 7: 199 -> 1 -> 6 -> 2 -> 83 -> 87 -> 88 -> 74 -> 4 -> 22 -> 28 -> 23 -> 42 -> 43 -> 39 -> 200
+    Route 7: TotalDis 117.30 TotalStatic 221.47 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.03 TRUE
+    Route 8: 200 -> 75 -> 70 -> 72 -> 69 -> 200
+    Route 8: TotalDis 39.67 TotalStatic 48.54 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.04 TRUE
+    Route 9: 200 -> 78 -> 79 -> 200
+    Route 9: TotalDis 24.07 TotalStatic 33.57 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
 Final Elite with Dynamics: 
-Individual{TOC=2308.7517553493103, NV=5}
-    Route 1: 199 -> 8 -> 10 -> 40 -> 41 -> 101 -> 9 -> 7 -> 77 -> 76 -> 89 -> 90 -> 6 -> 2 -> 85 -> 86 -> 200
-    Route 1: TotalDis 154.11 TotalStatic 194.75 TotalDynamic 11.95 TimeLate 0.00 TimeEarly 0.39 TRUE
-    Route 2: 192 -> 66 -> 92 -> 21 -> 61 -> 73 -> 62 -> 19 -> 26 -> 20 -> 29 -> 98 -> 99 -> 0 -> 1 -> 5 -> 49 -> 65 -> 63 -> 31 -> 32 -> 47 -> 68 -> 67 -> 200
-    Route 2: TotalDis 248.60 TotalStatic 307.45 TotalDynamic 44.11 TimeLate 0.00 TimeEarly 0.92 TRUE
-    Route 3: 199 -> 94 -> 93 -> 91 -> 23 -> 100 -> 34 -> 45 -> 64 -> 48 -> 54 -> 56 -> 30 -> 36 -> 37 -> 38 -> 35 -> 33 -> 28 -> 3 -> 52 -> 53 -> 57 -> 55 -> 200
-    Route 3: TotalDis 303.37 TotalStatic 338.93 TotalDynamic 23.35 TimeLate 2.31 TimeEarly 3.19 TRUE
-    Route 4: 192 -> 71 -> 83 -> 87 -> 74 -> 4 -> 22 -> 27 -> 25 -> 50 -> 51 -> 39 -> 43 -> 46 -> 59 -> 58 -> 42 -> 44 -> 60 -> 72 -> 75 -> 80 -> 70 -> 69 -> 200
-    Route 4: TotalDis 247.11 TotalStatic 343.18 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
-    Route 5: 194 -> 84 -> 81 -> 82 -> 88 -> 97 -> 96 -> 14 -> 11 -> 17 -> 18 -> 16 -> 13 -> 15 -> 12 -> 24 -> 95 -> 78 -> 79 -> 200
-    Route 5: TotalDis 174.14 TotalStatic 231.04 TotalDynamic 23.73 TimeLate 0.00 TimeEarly 0.00 TRUE
+Individual{TOC=2141.9974363028514, NV=10}
+    Route 1: 200 -> 75 -> 70 -> 72 -> 69 -> 200
+    Route 1: TotalDis 39.67 TotalStatic 48.54 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.04 TRUE
+    Route 2: 199 -> 1 -> 14 -> 17 -> 16 -> 12 -> 0 -> 97 -> 2 -> 6 -> 85 -> 82 -> 81 -> 84 -> 80 -> 78 -> 79 -> 200
+    Route 2: TotalDis 104.10 TotalStatic 186.07 TotalDynamic 15.54 TimeLate 0.00 TimeEarly 0.01 TRUE
+    Route 3: 199 -> 8 -> 24 -> 28 -> 19 -> 47 -> 42 -> 41 -> 40 -> 23 -> 9 -> 10 -> 101 -> 7 -> 76 -> 77 -> 200
+    Route 3: TotalDis 121.33 TotalStatic 232.58 TotalDynamic 11.95 TimeLate 0.00 TimeEarly 0.38 TRUE
+    Route 4: 192 -> 66 -> 92 -> 21 -> 20 -> 26 -> 62 -> 61 -> 73 -> 200
+    Route 4: TotalDis 78.27 TotalStatic 94.76 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.03 TRUE
+    Route 5: 192 -> 63 -> 71 -> 60 -> 68 -> 65 -> 32 -> 67 -> 56 -> 53 -> 64 -> 49 -> 30 -> 34 -> 59 -> 54 -> 48 -> 50 -> 31 -> 37 -> 36 -> 38 -> 35 -> 200
+    Route 5: TotalDis 245.57 TotalStatic 323.88 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.09 TRUE
+    Route 6: 192 -> 29 -> 100 -> 99 -> 98 -> 5 -> 33 -> 27 -> 25 -> 18 -> 15 -> 13 -> 11 -> 96 -> 94 -> 93 -> 91 -> 193
+    Route 6: TotalDis 179.85 TotalStatic 221.79 TotalDynamic 75.65 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 7: 199 -> 3 -> 90 -> 89 -> 95 -> 52 -> 55 -> 58 -> 57 -> 200
+    Route 7: TotalDis 84.92 TotalStatic 128.01 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 8: 199 -> 88 -> 87 -> 83 -> 74 -> 4 -> 22 -> 51 -> 46 -> 45 -> 43 -> 39 -> 200
+    Route 8: TotalDis 115.03 TotalStatic 156.47 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.03 TRUE
+    Route 9: 192 -> 44 -> 192
+    Route 9: TotalDis 27.79 TotalStatic 7.13 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 10: 192 -> 86 -> 192
+    Route 10: TotalDis 30.24 TotalStatic 16.11 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+Final Elite with Dynamics: 
+Individual{TOC=2153.1666405886413, NV=8}
+    Route 1: 192 -> 44 -> 46 -> 20 -> 16 -> 14 -> 27 -> 12 -> 24 -> 95 -> 78 -> 79 -> 200
+    Route 1: TotalDis 146.65 TotalStatic 165.32 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 2: 199 -> 4 -> 10 -> 8 -> 41 -> 40 -> 47 -> 101 -> 9 -> 7 -> 77 -> 81 -> 82 -> 76 -> 84 -> 86 -> 200
+    Route 2: TotalDis 153.00 TotalStatic 199.82 TotalDynamic 11.95 TimeLate 0.11 TimeEarly 0.28 TRUE
+    Route 3: 192 -> 66 -> 92 -> 21 -> 19 -> 23 -> 26 -> 61 -> 73 -> 200
+    Route 3: TotalDis 75.46 TotalStatic 105.69 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.09 TRUE
+    Route 4: 192 -> 63 -> 60 -> 65 -> 68 -> 71 -> 200
+    Route 4: TotalDis 41.91 TotalStatic 69.12 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.12 TRUE
+    Route 5: 192 -> 32 -> 45 -> 64 -> 67 -> 50 -> 34 -> 30 -> 49 -> 56 -> 54 -> 48 -> 37 -> 36 -> 38 -> 35 -> 31 -> 58 -> 59 -> 55 -> 52 -> 200
+    Route 5: TotalDis 205.31 TotalStatic 307.00 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.09 TRUE
+    Route 6: 192 -> 29 -> 100 -> 99 -> 98 -> 28 -> 5 -> 33 -> 25 -> 17 -> 18 -> 15 -> 13 -> 11 -> 96 -> 94 -> 93 -> 91 -> 193
+    Route 6: TotalDis 179.36 TotalStatic 228.61 TotalDynamic 75.65 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 7: 199 -> 1 -> 0 -> 97 -> 6 -> 2 -> 3 -> 88 -> 53 -> 57 -> 62 -> 89 -> 85 -> 83 -> 87 -> 90 -> 74 -> 22 -> 51 -> 42 -> 43 -> 39 -> 200
+    Route 7: TotalDis 198.72 TotalStatic 274.54 TotalDynamic 15.54 TimeLate 0.00 TimeEarly 0.01 TRUE
+    Route 8: 200 -> 80 -> 75 -> 70 -> 72 -> 69 -> 200
+    Route 8: TotalDis 41.14 TotalStatic 65.24 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.04 TRUE
+Final Elite with Dynamics: 
+Individual{TOC=2137.186840242165, NV=12}
+    Route 1: 200 -> 75 -> 70 -> 72 -> 69 -> 200
+    Route 1: TotalDis 39.67 TotalStatic 48.54 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.04 TRUE
+    Route 2: 199 -> 1 -> 14 -> 17 -> 16 -> 12 -> 0 -> 97 -> 2 -> 6 -> 85 -> 82 -> 81 -> 84 -> 80 -> 78 -> 79 -> 200
+    Route 2: TotalDis 104.10 TotalStatic 186.07 TotalDynamic 15.54 TimeLate 0.00 TimeEarly 0.01 TRUE
+    Route 3: 199 -> 8 -> 24 -> 28 -> 19 -> 47 -> 42 -> 41 -> 40 -> 23 -> 20 -> 9 -> 10 -> 101 -> 7 -> 76 -> 77 -> 200
+    Route 3: TotalDis 121.40 TotalStatic 255.94 TotalDynamic 11.95 TimeLate 0.00 TimeEarly 0.37 TRUE
+    Route 4: 192 -> 92 -> 21 -> 26 -> 192
+    Route 4: TotalDis 28.34 TotalStatic 32.10 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.28 TRUE
+    Route 5: 192 -> 62 -> 65 -> 68 -> 32 -> 31 -> 49 -> 67 -> 64 -> 30 -> 34 -> 50 -> 48 -> 54 -> 56 -> 53 -> 58 -> 37 -> 36 -> 38 -> 35 -> 33 -> 71 -> 200
+    Route 5: TotalDis 215.61 TotalStatic 307.27 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.09 TRUE
+    Route 6: 192 -> 29 -> 100 -> 99 -> 98 -> 5 -> 27 -> 25 -> 18 -> 15 -> 13 -> 11 -> 96 -> 94 -> 93 -> 91 -> 193
+    Route 6: TotalDis 178.84 TotalStatic 209.74 TotalDynamic 75.65 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 7: 199 -> 3 -> 90 -> 89 -> 95 -> 52 -> 55 -> 59 -> 57 -> 200
+    Route 7: TotalDis 83.44 TotalStatic 123.84 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.03 TRUE
+    Route 8: 192 -> 63 -> 192
+    Route 8: TotalDis 26.78 TotalStatic 20.72 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 9: 192 -> 66 -> 60 -> 61 -> 73 -> 200
+    Route 9: TotalDis 37.53 TotalStatic 51.42 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.07 TRUE
+    Route 10: 199 -> 88 -> 87 -> 83 -> 74 -> 4 -> 22 -> 51 -> 46 -> 45 -> 43 -> 39 -> 200
+    Route 10: TotalDis 115.03 TotalStatic 156.47 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.03 TRUE
+    Route 11: 192 -> 44 -> 192
+    Route 11: TotalDis 27.79 TotalStatic 7.13 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 12: 192 -> 86 -> 192
+    Route 12: TotalDis 30.24 TotalStatic 16.11 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+Final Elite with Dynamics: 
+Individual{TOC=2155.6798346789597, NV=7}
+    Route 1: 192 -> 44 -> 20 -> 16 -> 14 -> 25 -> 27 -> 12 -> 24 -> 95 -> 80 -> 78 -> 79 -> 200
+    Route 1: TotalDis 147.90 TotalStatic 190.37 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 2: 199 -> 4 -> 10 -> 8 -> 41 -> 40 -> 47 -> 101 -> 9 -> 7 -> 77 -> 81 -> 82 -> 76 -> 84 -> 86 -> 200
+    Route 2: TotalDis 153.00 TotalStatic 199.82 TotalDynamic 11.95 TimeLate 0.11 TimeEarly 0.28 TRUE
+    Route 3: 192 -> 66 -> 92 -> 21 -> 19 -> 23 -> 26 -> 61 -> 73 -> 200
+    Route 3: TotalDis 75.46 TotalStatic 105.69 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.09 TRUE
+    Route 4: 192 -> 63 -> 71 -> 68 -> 65 -> 46 -> 32 -> 49 -> 67 -> 58 -> 56 -> 64 -> 30 -> 34 -> 59 -> 54 -> 48 -> 45 -> 50 -> 31 -> 37 -> 36 -> 38 -> 35 -> 55 -> 52 -> 200
+    Route 4: TotalDis 253.95 TotalStatic 367.64 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.09 TRUE
+    Route 5: 192 -> 29 -> 100 -> 99 -> 98 -> 28 -> 5 -> 33 -> 17 -> 18 -> 15 -> 13 -> 11 -> 0 -> 97 -> 96 -> 94 -> 93 -> 91 -> 193
+    Route 5: TotalDis 184.97 TotalStatic 219.68 TotalDynamic 91.19 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 6: 199 -> 1 -> 6 -> 2 -> 3 -> 88 -> 62 -> 60 -> 57 -> 53 -> 89 -> 85 -> 83 -> 87 -> 90 -> 74 -> 22 -> 51 -> 42 -> 43 -> 39 -> 200
+    Route 6: TotalDis 194.70 TotalStatic 283.61 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 7: 200 -> 75 -> 70 -> 72 -> 69 -> 200
+    Route 7: TotalDis 39.67 TotalStatic 48.54 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.04 TRUE
+Final Elite with Dynamics: 
+Individual{TOC=2249.230374161425, NV=6}
+    Route 1: 199 -> 1 -> 14 -> 16 -> 25 -> 27 -> 36 -> 24 -> 12 -> 8 -> 79 -> 78 -> 71 -> 40 -> 41 -> 9 -> 10 -> 7 -> 77 -> 76 -> 80 -> 85 -> 86 -> 200
+    Route 1: TotalDis 276.57 TotalStatic 328.54 TotalDynamic 0.00 TimeLate 0.18 TimeEarly 1.87 TRUE
+    Route 2: 200 -> 101 -> 200
+    Route 2: TotalDis 80.57 TotalStatic 0.00 TotalDynamic 11.95 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 3: 192 -> 66 -> 92 -> 21 -> 20 -> 26 -> 23 -> 61 -> 73 -> 200
+    Route 3: TotalDis 76.67 TotalStatic 106.08 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.03 TRUE
+    Route 4: 192 -> 63 -> 65 -> 47 -> 68 -> 32 -> 30 -> 45 -> 58 -> 64 -> 67 -> 46 -> 34 -> 51 -> 54 -> 48 -> 42 -> 50 -> 31 -> 37 -> 38 -> 33 -> 35 -> 59 -> 55 -> 52 -> 200
+    Route 4: TotalDis 256.75 TotalStatic 374.76 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 5: 192 -> 19 -> 29 -> 100 -> 99 -> 96 -> 98 -> 28 -> 5 -> 17 -> 18 -> 15 -> 13 -> 11 -> 6 -> 94 -> 93 -> 91 -> 97 -> 200
+    Route 5: TotalDis 195.48 TotalStatic 238.72 TotalDynamic 91.19 TimeLate 0.00 TimeEarly 0.00 TRUE
+    Route 6: 199 -> 0 -> 2 -> 3 -> 62 -> 56 -> 57 -> 53 -> 81 -> 82 -> 83 -> 87 -> 90 -> 88 -> 74 -> 22 -> 4 -> 49 -> 39 -> 43 -> 89 -> 44 -> 60 -> 95 -> 84 -> 75 -> 72 -> 70 -> 69 -> 200
+    Route 6: TotalDis 312.29 TotalStatic 367.23 TotalDynamic 0.00 TimeLate 0.00 TimeEarly 0.02 TRUE
